@@ -1,0 +1,539 @@
+F:\level 6\GUI\projects\prjAssignment\bin\Debug\prjAssignment.exe.config
+F:\level 6\GUI\projects\prjAssignment\bin\Debug\prjAssignment.exe
+F:\level 6\GUI\projects\prjAssignment\bin\Debug\prjAssignment.pdb
+F:\level 6\GUI\projects\prjAssignment\bin\Debug\prjAssignment.xml
+F:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+F:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.Resources.resources
+F:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+F:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.exe
+F:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.xml
+F:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.pdb
+F:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.frmSignUp.resources
+F:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.frmCreditCard.resources
+F:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.frmWelcome.resources
+E:\level 6\GUI\projects\prjAssignment\bin\Debug\prjAssignment.exe.config
+E:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.exe
+E:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.xml
+E:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.pdb
+E:\level 6\GUI\projects\prjAssignment\bin\Debug\prjAssignment.exe
+E:\level 6\GUI\projects\prjAssignment\bin\Debug\prjAssignment.pdb
+E:\level 6\GUI\projects\prjAssignment\bin\Debug\prjAssignment.xml
+E:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+E:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.frmWelcome.resources
+E:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.frmSignUp.resources
+E:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.frmCreditCard.resources
+E:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.Resources.resources
+E:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+J:\level 6\GUI\projects\prjAssignment\bin\Debug\prjAssignment.exe.config
+J:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.exe
+J:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.xml
+J:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.pdb
+J:\level 6\GUI\projects\prjAssignment\bin\Debug\prjAssignment.exe
+J:\level 6\GUI\projects\prjAssignment\bin\Debug\prjAssignment.pdb
+J:\level 6\GUI\projects\prjAssignment\bin\Debug\prjAssignment.xml
+J:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+J:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.frmWelcome.resources
+J:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.frmSignUp.resources
+J:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.frmCreditCard.resources
+J:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.Resources.resources
+J:\level 6\GUI\projects\prjAssignment\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+J:\level 6\GUI\prjAssignmentRedo\bin\Debug\prjAssignment.exe.config
+J:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.exe
+J:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.xml
+J:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.pdb
+J:\level 6\GUI\prjAssignmentRedo\bin\Debug\prjAssignment.exe
+J:\level 6\GUI\prjAssignmentRedo\bin\Debug\prjAssignment.pdb
+J:\level 6\GUI\prjAssignmentRedo\bin\Debug\prjAssignment.xml
+J:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+J:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmWelcome.resources
+J:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmSignUp.resources
+J:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmCreditCard.resources
+J:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.Resources.resources
+J:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+E:\level 6\GUI\prjAssignmentRedo\bin\Debug\prjAssignment.exe.config
+E:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.exe
+E:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.xml
+E:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.pdb
+E:\level 6\GUI\prjAssignmentRedo\bin\Debug\prjAssignment.exe
+E:\level 6\GUI\prjAssignmentRedo\bin\Debug\prjAssignment.pdb
+E:\level 6\GUI\prjAssignmentRedo\bin\Debug\prjAssignment.xml
+E:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+E:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmWelcome.resources
+E:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmSignUp.resources
+E:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmCreditCard.resources
+E:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.Resources.resources
+E:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+E:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmTandC.resources
+F:\level 6\GUI\prjAssignmentRedo\bin\Debug\prjAssignment.exe.config
+F:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.exe
+F:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.xml
+F:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.pdb
+F:\level 6\GUI\prjAssignmentRedo\bin\Debug\prjAssignment.exe
+F:\level 6\GUI\prjAssignmentRedo\bin\Debug\prjAssignment.pdb
+F:\level 6\GUI\prjAssignmentRedo\bin\Debug\prjAssignment.xml
+F:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+F:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmWelcome.resources
+F:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmSignUp.resources
+F:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmCreditCard.resources
+F:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.Resources.resources
+F:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmTandC.resources
+F:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+F:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmClientAction.resources
+E:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmClientAction.resources
+D:\level 6\GUI\prjAssignmentRedo\bin\Debug\prjAssignment.exe.config
+D:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.exe
+D:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.xml
+D:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.pdb
+D:\level 6\GUI\prjAssignmentRedo\bin\Debug\prjAssignment.exe
+D:\level 6\GUI\prjAssignmentRedo\bin\Debug\prjAssignment.pdb
+D:\level 6\GUI\prjAssignmentRedo\bin\Debug\prjAssignment.xml
+D:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+D:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmWelcome.resources
+D:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmSignUp.resources
+D:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmCreditCard.resources
+D:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmClientAction.resources
+D:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.Resources.resources
+D:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmTandC.resources
+D:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+J:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmClientAction.resources
+J:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmTandC.resources
+F:\level 6\GUI\prjAssignmentRedo\obj\Debug\prjAssignment.frmHire.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo-20170208T173853Z\prjAssignmentRedo\bin\Debug\prjAssignment.exe.config
+C:\Users\jerem\Downloads\prjAssignmentRedo-20170208T173853Z\prjAssignmentRedo\obj\Debug\prjAssignment.exe
+C:\Users\jerem\Downloads\prjAssignmentRedo-20170208T173853Z\prjAssignmentRedo\obj\Debug\prjAssignment.xml
+C:\Users\jerem\Downloads\prjAssignmentRedo-20170208T173853Z\prjAssignmentRedo\obj\Debug\prjAssignment.pdb
+C:\Users\jerem\Downloads\prjAssignmentRedo-20170208T173853Z\prjAssignmentRedo\bin\Debug\prjAssignment.exe
+C:\Users\jerem\Downloads\prjAssignmentRedo-20170208T173853Z\prjAssignmentRedo\bin\Debug\prjAssignment.pdb
+C:\Users\jerem\Downloads\prjAssignmentRedo-20170208T173853Z\prjAssignmentRedo\bin\Debug\prjAssignment.xml
+C:\Users\jerem\Downloads\prjAssignmentRedo-20170208T173853Z\prjAssignmentRedo\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+C:\Users\jerem\Downloads\prjAssignmentRedo-20170208T173853Z\prjAssignmentRedo\obj\Debug\prjAssignment.frmWelcome.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo-20170208T173853Z\prjAssignmentRedo\obj\Debug\prjAssignment.frmSignUp.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo-20170208T173853Z\prjAssignmentRedo\obj\Debug\prjAssignment.frmCreditCard.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo-20170208T173853Z\prjAssignmentRedo\obj\Debug\prjAssignment.frmClientAction.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo-20170208T173853Z\prjAssignmentRedo\obj\Debug\prjAssignment.frmHire.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo-20170208T173853Z\prjAssignmentRedo\obj\Debug\prjAssignment.Resources.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo-20170208T173853Z\prjAssignmentRedo\obj\Debug\prjAssignment.frmTandC.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo-20170208T173853Z\prjAssignmentRedo\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+E:\level 6\GUI\prjAssignmentRedo9feb1am\bin\Debug\prjAssignment.exe.config
+E:\level 6\GUI\prjAssignmentRedo9feb1am\obj\Debug\prjAssignment.exe
+E:\level 6\GUI\prjAssignmentRedo9feb1am\obj\Debug\prjAssignment.xml
+E:\level 6\GUI\prjAssignmentRedo9feb1am\obj\Debug\prjAssignment.pdb
+E:\level 6\GUI\prjAssignmentRedo9feb1am\bin\Debug\prjAssignment.exe
+E:\level 6\GUI\prjAssignmentRedo9feb1am\bin\Debug\prjAssignment.pdb
+E:\level 6\GUI\prjAssignmentRedo9feb1am\bin\Debug\prjAssignment.xml
+E:\level 6\GUI\prjAssignmentRedo9feb1am\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+E:\level 6\GUI\prjAssignmentRedo9feb1am\obj\Debug\prjAssignment.frmWelcome.resources
+E:\level 6\GUI\prjAssignmentRedo9feb1am\obj\Debug\prjAssignment.frmSignUp.resources
+E:\level 6\GUI\prjAssignmentRedo9feb1am\obj\Debug\prjAssignment.frmCreditCard.resources
+E:\level 6\GUI\prjAssignmentRedo9feb1am\obj\Debug\prjAssignment.frmClientAction.resources
+E:\level 6\GUI\prjAssignmentRedo9feb1am\obj\Debug\prjAssignment.frmHire.resources
+E:\level 6\GUI\prjAssignmentRedo9feb1am\obj\Debug\prjAssignment.Resources.resources
+E:\level 6\GUI\prjAssignmentRedo9feb1am\obj\Debug\prjAssignment.frmTandC.resources
+E:\level 6\GUI\prjAssignmentRedo9feb1am\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+C:\Users\jerem\Downloads\prjAssignmentRedo9feb12noon-20170209T214957Z\prjAssignmentRedo9feb12noon\bin\Debug\prjAssignment.exe.config
+C:\Users\jerem\Downloads\prjAssignmentRedo9feb12noon-20170209T214957Z\prjAssignmentRedo9feb12noon\obj\Debug\prjAssignment.exe
+C:\Users\jerem\Downloads\prjAssignmentRedo9feb12noon-20170209T214957Z\prjAssignmentRedo9feb12noon\obj\Debug\prjAssignment.xml
+C:\Users\jerem\Downloads\prjAssignmentRedo9feb12noon-20170209T214957Z\prjAssignmentRedo9feb12noon\obj\Debug\prjAssignment.pdb
+F:\level 6\GUI\prjAssignmentRedo9feb12noon\bin\Debug\prjAssignment.exe.config
+F:\level 6\GUI\prjAssignmentRedo9feb12noon\obj\Debug\prjAssignment.exe
+F:\level 6\GUI\prjAssignmentRedo9feb12noon\obj\Debug\prjAssignment.xml
+F:\level 6\GUI\prjAssignmentRedo9feb12noon\obj\Debug\prjAssignment.pdb
+F:\level 6\GUI\prjAssignmentRedo9feb12noon\bin\Debug\prjAssignment.exe
+F:\level 6\GUI\prjAssignmentRedo9feb12noon\bin\Debug\prjAssignment.pdb
+F:\level 6\GUI\prjAssignmentRedo9feb12noon\bin\Debug\prjAssignment.xml
+F:\level 6\GUI\prjAssignmentRedo9feb12noon\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+F:\level 6\GUI\prjAssignmentRedo9feb12noon\obj\Debug\prjAssignment.frmWelcome.resources
+F:\level 6\GUI\prjAssignmentRedo9feb12noon\obj\Debug\prjAssignment.frmSignUp.resources
+F:\level 6\GUI\prjAssignmentRedo9feb12noon\obj\Debug\prjAssignment.frmCreditCard.resources
+F:\level 6\GUI\prjAssignmentRedo9feb12noon\obj\Debug\prjAssignment.frmClientAction.resources
+F:\level 6\GUI\prjAssignmentRedo9feb12noon\obj\Debug\prjAssignment.frmHire.resources
+F:\level 6\GUI\prjAssignmentRedo9feb12noon\obj\Debug\prjAssignment.Resources.resources
+F:\level 6\GUI\prjAssignmentRedo9feb12noon\obj\Debug\prjAssignment.frmTandC.resources
+F:\level 6\GUI\prjAssignmentRedo9feb12noon\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+F:\level 6\GUI\prjAssignmentRedo9feb12noon\obj\Debug\prjAssignment.frmReturn.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo9feb2347\bin\Debug\prjAssignment.exe.config
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo9feb2347\obj\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo9feb2347\obj\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo9feb2347\obj\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo9feb2347\bin\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo9feb2347\bin\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo9feb2347\bin\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo9feb2347\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo9feb2347\obj\Debug\prjAssignment.frmWelcome.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo9feb2347\obj\Debug\prjAssignment.frmSignUp.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo9feb2347\obj\Debug\prjAssignment.frmCreditCard.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo9feb2347\obj\Debug\prjAssignment.frmClientAction.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo9feb2347\obj\Debug\prjAssignment.frmHire.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo9feb2347\obj\Debug\prjAssignment.frmReturn.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo9feb2347\obj\Debug\prjAssignment.Resources.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo9feb2347\obj\Debug\prjAssignment.frmTandC.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo9feb2347\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo11feb0048\bin\Debug\prjAssignment.exe.config
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo11feb0048\obj\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo11feb0048\obj\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo11feb0048\obj\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo11feb0048\bin\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo11feb0048\bin\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo11feb0048\bin\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo11feb0048\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo11feb0048\obj\Debug\prjAssignment.frmWelcome.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo11feb0048\obj\Debug\prjAssignment.frmSignUp.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo11feb0048\obj\Debug\prjAssignment.frmCreditCard.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo11feb0048\obj\Debug\prjAssignment.frmClientAction.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo11feb0048\obj\Debug\prjAssignment.frmHire.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo11feb0048\obj\Debug\prjAssignment.frmReturn.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo11feb0048\obj\Debug\prjAssignment.Resources.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo11feb0048\obj\Debug\prjAssignment.frmTandC.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo11feb0048\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo11feb0048\obj\Debug\prjAssignment.frmPrintBill.resources
+E:\level 6\GUI\prjAssignmentRedo12feb0042\bin\Debug\prjAssignment.exe.config
+E:\level 6\GUI\prjAssignmentRedo12feb0042\obj\Debug\prjAssignment.exe
+E:\level 6\GUI\prjAssignmentRedo12feb0042\obj\Debug\prjAssignment.xml
+E:\level 6\GUI\prjAssignmentRedo12feb0042\obj\Debug\prjAssignment.pdb
+E:\level 6\GUI\prjAssignmentRedo12feb0042\bin\Debug\prjAssignment.exe
+E:\level 6\GUI\prjAssignmentRedo12feb0042\bin\Debug\prjAssignment.pdb
+E:\level 6\GUI\prjAssignmentRedo12feb0042\bin\Debug\prjAssignment.xml
+E:\level 6\GUI\prjAssignmentRedo12feb0042\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+E:\level 6\GUI\prjAssignmentRedo12feb0042\obj\Debug\prjAssignment.frmWelcome.resources
+E:\level 6\GUI\prjAssignmentRedo12feb0042\obj\Debug\prjAssignment.frmSignUp.resources
+E:\level 6\GUI\prjAssignmentRedo12feb0042\obj\Debug\prjAssignment.frmCreditCard.resources
+E:\level 6\GUI\prjAssignmentRedo12feb0042\obj\Debug\prjAssignment.frmClientAction.resources
+E:\level 6\GUI\prjAssignmentRedo12feb0042\obj\Debug\prjAssignment.frmHire.resources
+E:\level 6\GUI\prjAssignmentRedo12feb0042\obj\Debug\prjAssignment.frmPrintBill.resources
+E:\level 6\GUI\prjAssignmentRedo12feb0042\obj\Debug\prjAssignment.frmReturn.resources
+E:\level 6\GUI\prjAssignmentRedo12feb0042\obj\Debug\prjAssignment.Resources.resources
+E:\level 6\GUI\prjAssignmentRedo12feb0042\obj\Debug\prjAssignment.frmTandC.resources
+E:\level 6\GUI\prjAssignmentRedo12feb0042\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+E:\level 6\GUI\prjAssignmentRedo12feb0042\obj\Debug\prjAssignment.frmReport.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo13feb1805\bin\Debug\prjAssignment.exe.config
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo13feb1805\obj\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo13feb1805\obj\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo13feb1805\obj\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo13feb1805\bin\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo13feb1805\bin\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo13feb1805\bin\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo13feb1805\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo13feb1805\obj\Debug\prjAssignment.frmWelcome.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo13feb1805\obj\Debug\prjAssignment.frmSignUp.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo13feb1805\obj\Debug\prjAssignment.frmCreditCard.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo13feb1805\obj\Debug\prjAssignment.frmClientAction.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo13feb1805\obj\Debug\prjAssignment.frmHire.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo13feb1805\obj\Debug\prjAssignment.frmPrintBill.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo13feb1805\obj\Debug\prjAssignment.frmReturn.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo13feb1805\obj\Debug\prjAssignment.Resources.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo13feb1805\obj\Debug\prjAssignment.frmReport.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo13feb1805\obj\Debug\prjAssignment.frmTandC.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo13feb1805\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo13feb2359-20170214T133136Z\prjAssignmentRedo13feb2359\bin\Debug\prjAssignment.exe.config
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo13feb2359-20170214T133136Z\prjAssignmentRedo13feb2359\obj\Debug\prjAssignment.exe
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo13feb2359-20170214T133136Z\prjAssignmentRedo13feb2359\obj\Debug\prjAssignment.xml
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo13feb2359-20170214T133136Z\prjAssignmentRedo13feb2359\obj\Debug\prjAssignment.pdb
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo13feb2359-20170214T133136Z\prjAssignmentRedo13feb2359\bin\Debug\prjAssignment.exe
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo13feb2359-20170214T133136Z\prjAssignmentRedo13feb2359\bin\Debug\prjAssignment.pdb
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo13feb2359-20170214T133136Z\prjAssignmentRedo13feb2359\bin\Debug\prjAssignment.xml
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo13feb2359-20170214T133136Z\prjAssignmentRedo13feb2359\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo13feb2359-20170214T133136Z\prjAssignmentRedo13feb2359\obj\Debug\prjAssignment.frmWelcome.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo13feb2359-20170214T133136Z\prjAssignmentRedo13feb2359\obj\Debug\prjAssignment.frmSignUp.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo13feb2359-20170214T133136Z\prjAssignmentRedo13feb2359\obj\Debug\prjAssignment.frmCreditCard.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo13feb2359-20170214T133136Z\prjAssignmentRedo13feb2359\obj\Debug\prjAssignment.frmClientAction.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo13feb2359-20170214T133136Z\prjAssignmentRedo13feb2359\obj\Debug\prjAssignment.frmHire.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo13feb2359-20170214T133136Z\prjAssignmentRedo13feb2359\obj\Debug\prjAssignment.frmPrintBill.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo13feb2359-20170214T133136Z\prjAssignmentRedo13feb2359\obj\Debug\prjAssignment.frmReturn.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo13feb2359-20170214T133136Z\prjAssignmentRedo13feb2359\obj\Debug\prjAssignment.Resources.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo13feb2359-20170214T133136Z\prjAssignmentRedo13feb2359\obj\Debug\prjAssignment.frmReport.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo13feb2359-20170214T133136Z\prjAssignmentRedo13feb2359\obj\Debug\prjAssignment.frmTandC.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo13feb2359-20170214T133136Z\prjAssignmentRedo13feb2359\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1350-20170214T140940Z\prjAssignmentRedo14feb1350\bin\Debug\prjAssignment.exe.config
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1350-20170214T140940Z\prjAssignmentRedo14feb1350\obj\Debug\prjAssignment.exe
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1350-20170214T140940Z\prjAssignmentRedo14feb1350\obj\Debug\prjAssignment.xml
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1350-20170214T140940Z\prjAssignmentRedo14feb1350\obj\Debug\prjAssignment.pdb
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1350-20170214T140940Z\prjAssignmentRedo14feb1350\bin\Debug\prjAssignment.exe
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1350-20170214T140940Z\prjAssignmentRedo14feb1350\bin\Debug\prjAssignment.pdb
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1350-20170214T140940Z\prjAssignmentRedo14feb1350\bin\Debug\prjAssignment.xml
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1350-20170214T140940Z\prjAssignmentRedo14feb1350\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1350-20170214T140940Z\prjAssignmentRedo14feb1350\obj\Debug\prjAssignment.frmWelcome.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1350-20170214T140940Z\prjAssignmentRedo14feb1350\obj\Debug\prjAssignment.frmSignUp.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1350-20170214T140940Z\prjAssignmentRedo14feb1350\obj\Debug\prjAssignment.frmCreditCard.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1350-20170214T140940Z\prjAssignmentRedo14feb1350\obj\Debug\prjAssignment.frmClientAction.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1350-20170214T140940Z\prjAssignmentRedo14feb1350\obj\Debug\prjAssignment.frmHire.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1350-20170214T140940Z\prjAssignmentRedo14feb1350\obj\Debug\prjAssignment.frmPrintBill.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1350-20170214T140940Z\prjAssignmentRedo14feb1350\obj\Debug\prjAssignment.frmReturn.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1350-20170214T140940Z\prjAssignmentRedo14feb1350\obj\Debug\prjAssignment.Resources.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1350-20170214T140940Z\prjAssignmentRedo14feb1350\obj\Debug\prjAssignment.frmReport.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1350-20170214T140940Z\prjAssignmentRedo14feb1350\obj\Debug\prjAssignment.frmTandC.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1350-20170214T140940Z\prjAssignmentRedo14feb1350\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1555-20170214T161535Z\prjAssignmentRedo14feb1555\bin\Debug\prjAssignment.exe.config
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1555-20170214T161535Z\prjAssignmentRedo14feb1555\obj\Debug\prjAssignment.exe
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1555-20170214T161535Z\prjAssignmentRedo14feb1555\obj\Debug\prjAssignment.xml
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1555-20170214T161535Z\prjAssignmentRedo14feb1555\obj\Debug\prjAssignment.pdb
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1555-20170214T161535Z\prjAssignmentRedo14feb1555\bin\Debug\prjAssignment.exe
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1555-20170214T161535Z\prjAssignmentRedo14feb1555\bin\Debug\prjAssignment.pdb
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1555-20170214T161535Z\prjAssignmentRedo14feb1555\bin\Debug\prjAssignment.xml
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1555-20170214T161535Z\prjAssignmentRedo14feb1555\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1555-20170214T161535Z\prjAssignmentRedo14feb1555\obj\Debug\prjAssignment.frmWelcome.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1555-20170214T161535Z\prjAssignmentRedo14feb1555\obj\Debug\prjAssignment.frmSignUp.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1555-20170214T161535Z\prjAssignmentRedo14feb1555\obj\Debug\prjAssignment.frmCreditCard.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1555-20170214T161535Z\prjAssignmentRedo14feb1555\obj\Debug\prjAssignment.frmClientAction.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1555-20170214T161535Z\prjAssignmentRedo14feb1555\obj\Debug\prjAssignment.frmHire.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1555-20170214T161535Z\prjAssignmentRedo14feb1555\obj\Debug\prjAssignment.frmPrintBill.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1555-20170214T161535Z\prjAssignmentRedo14feb1555\obj\Debug\prjAssignment.frmReturn.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1555-20170214T161535Z\prjAssignmentRedo14feb1555\obj\Debug\prjAssignment.Resources.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1555-20170214T161535Z\prjAssignmentRedo14feb1555\obj\Debug\prjAssignment.frmReport.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1555-20170214T161535Z\prjAssignmentRedo14feb1555\obj\Debug\prjAssignment.frmTandC.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo14feb1555-20170214T161535Z\prjAssignmentRedo14feb1555\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo14feb1822\bin\Debug\prjAssignment.exe.config
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo14feb1822\obj\Debug\prjAssignment.exe
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo14feb1822\obj\Debug\prjAssignment.xml
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo14feb1822\obj\Debug\prjAssignment.pdb
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo14feb1822\bin\Debug\prjAssignment.exe
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo14feb1822\bin\Debug\prjAssignment.pdb
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo14feb1822\bin\Debug\prjAssignment.xml
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo14feb1822\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo14feb1822\obj\Debug\prjAssignment.frmWelcome.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo14feb1822\obj\Debug\prjAssignment.frmSignUp.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo14feb1822\obj\Debug\prjAssignment.frmCreditCard.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo14feb1822\obj\Debug\prjAssignment.frmClientAction.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo14feb1822\obj\Debug\prjAssignment.frmHire.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo14feb1822\obj\Debug\prjAssignment.frmPrintBill.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo14feb1822\obj\Debug\prjAssignment.frmReturn.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo14feb1822\obj\Debug\prjAssignment.Resources.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo14feb1822\obj\Debug\prjAssignment.frmReport.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo14feb1822\obj\Debug\prjAssignment.frmTandC.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo14feb1822\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo15feb155\bin\Debug\prjAssignment.exe.config
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo15feb155\obj\Debug\prjAssignment.exe
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo15feb155\obj\Debug\prjAssignment.xml
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo15feb155\obj\Debug\prjAssignment.pdb
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo15feb155\bin\Debug\prjAssignment.exe
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo15feb155\bin\Debug\prjAssignment.pdb
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo15feb155\bin\Debug\prjAssignment.xml
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo15feb155\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo15feb155\obj\Debug\prjAssignment.frmWelcome.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo15feb155\obj\Debug\prjAssignment.frmSignUp.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo15feb155\obj\Debug\prjAssignment.frmCreditCard.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo15feb155\obj\Debug\prjAssignment.frmClientAction.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo15feb155\obj\Debug\prjAssignment.frmHire.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo15feb155\obj\Debug\prjAssignment.frmPrintBill.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo15feb155\obj\Debug\prjAssignment.frmReturn.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo15feb155\obj\Debug\prjAssignment.Resources.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo15feb155\obj\Debug\prjAssignment.frmReport.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo15feb155\obj\Debug\prjAssignment.frmTandC.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo14feb1822-20170214T201443Z\prjAssignmentRedo15feb155\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo16feb0020-20170216T111033Z\prjAssignmentRedo16feb0020\bin\Debug\prjAssignment.exe.config
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo16feb0020-20170216T111033Z\prjAssignmentRedo16feb0020\obj\Debug\prjAssignment.exe
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo16feb0020-20170216T111033Z\prjAssignmentRedo16feb0020\obj\Debug\prjAssignment.xml
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo16feb0020-20170216T111033Z\prjAssignmentRedo16feb0020\obj\Debug\prjAssignment.pdb
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\bin\Debug\prjAssignment.exe.config
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\obj\Debug\prjAssignment.exe
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\obj\Debug\prjAssignment.xml
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\obj\Debug\prjAssignment.pdb
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\bin\Debug\prjAssignment.exe
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\bin\Debug\prjAssignment.pdb
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\bin\Debug\prjAssignment.xml
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\obj\Debug\prjAssignment.frmWelcome.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\obj\Debug\prjAssignment.frmSignUp.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\obj\Debug\prjAssignment.frmCreditCard.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\obj\Debug\prjAssignment.frmClientAction.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\obj\Debug\prjAssignment.frmHire.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\obj\Debug\prjAssignment.frmPrintBill.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\obj\Debug\prjAssignment.frmReturn.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\obj\Debug\prjAssignment.Resources.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\obj\Debug\prjAssignment.frmReport.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\obj\Debug\prjAssignment.frmTandC.resources
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+C:\Users\jerem\Downloads\prjAssignmentRedo16feb1115\prjAssignmentRedo16feb1115\obj\Debug\prjAssignment.frmrevenue.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\bin\Debug\prjAssignment.exe.config
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\obj\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\obj\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\obj\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\bin\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\bin\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\bin\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\obj\Debug\prjAssignment.frmWelcome.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\obj\Debug\prjAssignment.frmSignUp.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\obj\Debug\prjAssignment.frmCreditCard.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\obj\Debug\prjAssignment.frmClientAction.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\obj\Debug\prjAssignment.frmHire.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\obj\Debug\prjAssignment.frmPrintBill.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\obj\Debug\prjAssignment.frmReturn.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\obj\Debug\prjAssignment.frmrevenue.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\obj\Debug\prjAssignment.Resources.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\obj\Debug\prjAssignment.frmReport.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\obj\Debug\prjAssignment.frmTandC.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo16feb2324\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\bin\Debug\prjAssignment.exe.config
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\obj\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\obj\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\obj\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\bin\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\bin\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\bin\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\obj\Debug\prjAssignment.frmWelcome.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\obj\Debug\prjAssignment.frmSignUp.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\obj\Debug\prjAssignment.frmCreditCard.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\obj\Debug\prjAssignment.frmClientAction.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\obj\Debug\prjAssignment.frmHire.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\obj\Debug\prjAssignment.frmPrintBill.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\obj\Debug\prjAssignment.frmReturn.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\obj\Debug\prjAssignment.frmrevenue.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\obj\Debug\prjAssignment.Resources.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\obj\Debug\prjAssignment.frmReport.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\obj\Debug\prjAssignment.frmTandC.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo17feb2321\obj\Debug\prjAssignment.frmStaff.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\bin\Debug\prjAssignment.exe.config
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\obj\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\obj\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\obj\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\bin\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\bin\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\bin\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\obj\Debug\prjAssignment.frmWelcome.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\obj\Debug\prjAssignment.frmSignUp.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\obj\Debug\prjAssignment.frmCreditCard.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\obj\Debug\prjAssignment.frmClientAction.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\obj\Debug\prjAssignment.frmHire.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\obj\Debug\prjAssignment.frmPrintBill.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\obj\Debug\prjAssignment.frmReturn.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\obj\Debug\prjAssignment.frmrevenue.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\obj\Debug\prjAssignment.frmStaff.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\obj\Debug\prjAssignment.Resources.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\obj\Debug\prjAssignment.frmReport.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\obj\Debug\prjAssignment.frmTandC.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb0102\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\bin\Debug\prjAssignment.exe.config
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\obj\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\obj\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\obj\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\obj\Debug\prjAssignment.frmWelcome.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\obj\Debug\prjAssignment.frmSignUp.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\obj\Debug\prjAssignment.frmCreditCard.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\obj\Debug\prjAssignment.frmClientAction.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\obj\Debug\prjAssignment.frmHire.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\obj\Debug\prjAssignment.frmPrintBill.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\obj\Debug\prjAssignment.frmReturn.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\obj\Debug\prjAssignment.frmrevenue.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\obj\Debug\prjAssignment.frmStaff.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\obj\Debug\prjAssignment.Resources.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\obj\Debug\prjAssignment.frmReport.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\obj\Debug\prjAssignment.frmTandC.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\bin\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\bin\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\bin\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo19feb2248\obj\Debug\prjAssignment.frmRepairedFile.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\bin\Debug\prjAssignment.exe.config
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\obj\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\obj\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\obj\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\bin\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\bin\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\bin\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\obj\Debug\prjAssignment.frmWelcome.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\obj\Debug\prjAssignment.frmSignUp.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\obj\Debug\prjAssignment.frmCreditCard.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\obj\Debug\prjAssignment.frmClientAction.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\obj\Debug\prjAssignment.frmHire.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\obj\Debug\prjAssignment.frmPrintBill.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\obj\Debug\prjAssignment.frmRepairedFile.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\obj\Debug\prjAssignment.frmReturn.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\obj\Debug\prjAssignment.frmrevenue.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\obj\Debug\prjAssignment.frmStaff.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\obj\Debug\prjAssignment.Resources.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\obj\Debug\prjAssignment.frmReport.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\obj\Debug\prjAssignment.frmTandC.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb0009\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\bin\Debug\prjAssignment.exe.config
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\obj\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\obj\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\obj\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\bin\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\bin\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\bin\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\obj\Debug\prjAssignment.frmWelcome.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\obj\Debug\prjAssignment.frmSignUp.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\obj\Debug\prjAssignment.frmCreditCard.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\obj\Debug\prjAssignment.frmClientAction.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\obj\Debug\prjAssignment.frmHire.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\obj\Debug\prjAssignment.frmPrintBill.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\obj\Debug\prjAssignment.frmRepairedFile.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\obj\Debug\prjAssignment.frmReturn.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\obj\Debug\prjAssignment.frmrevenue.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\obj\Debug\prjAssignment.frmStaff.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\obj\Debug\prjAssignment.Resources.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\obj\Debug\prjAssignment.frmReport.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\obj\Debug\prjAssignment.frmTandC.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo21feb2113\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\bin\Debug\prjAssignment.exe.config
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\obj\Debug\prjAssignment.exe
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\obj\Debug\prjAssignment.xml
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\obj\Debug\prjAssignment.pdb
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\bin\Debug\prjAssignment.exe
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\bin\Debug\prjAssignment.pdb
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\bin\Debug\prjAssignment.xml
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\obj\Debug\prjAssignment.frmWelcome.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\obj\Debug\prjAssignment.frmSignUp.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\obj\Debug\prjAssignment.frmCreditCard.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\obj\Debug\prjAssignment.frmClientAction.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\obj\Debug\prjAssignment.frmHire.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\obj\Debug\prjAssignment.frmPrintBill.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\obj\Debug\prjAssignment.frmRepairedFile.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\obj\Debug\prjAssignment.frmReturn.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\obj\Debug\prjAssignment.frmrevenue.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\obj\Debug\prjAssignment.frmStaff.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\obj\Debug\prjAssignment.Resources.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\obj\Debug\prjAssignment.frmReport.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\obj\Debug\prjAssignment.frmTandC.resources
+\\svr-studentfile\userdocs\jeremy.staunton\Downloads\prjAssignmentRedo27feb0021-20170227T112416Z-001\prjAssignmentRedo27feb0021\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\bin\Debug\prjAssignment.exe.config
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\obj\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\obj\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\obj\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\bin\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\bin\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\bin\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\obj\Debug\prjAssignment.frmWelcome.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\obj\Debug\prjAssignment.frmSignUp.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\obj\Debug\prjAssignment.frmCreditCard.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\obj\Debug\prjAssignment.frmClientAction.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\obj\Debug\prjAssignment.frmHire.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\obj\Debug\prjAssignment.frmPrintBill.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\obj\Debug\prjAssignment.frmRepairedFile.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\obj\Debug\prjAssignment.frmReturn.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\obj\Debug\prjAssignment.frmrevenue.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\obj\Debug\prjAssignment.frmStaff.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\obj\Debug\prjAssignment.Resources.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\obj\Debug\prjAssignment.frmReport.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\obj\Debug\prjAssignment.frmTandC.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo27feb1721\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\bin\Debug\prjAssignment.exe.config
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\obj\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\obj\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\obj\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\bin\Debug\prjAssignment.exe
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\bin\Debug\prjAssignment.pdb
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\bin\Debug\prjAssignment.xml
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\obj\Debug\prjAssignment.vbprojResolveAssemblyReference.cache
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\obj\Debug\prjAssignment.frmWelcome.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\obj\Debug\prjAssignment.frmSignUp.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\obj\Debug\prjAssignment.frmCreditCard.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\obj\Debug\prjAssignment.frmClientAction.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\obj\Debug\prjAssignment.frmHire.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\obj\Debug\prjAssignment.frmPrintBill.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\obj\Debug\prjAssignment.frmRepairedFile.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\obj\Debug\prjAssignment.frmReturn.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\obj\Debug\prjAssignment.frmrevenue.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\obj\Debug\prjAssignment.frmStaff.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\obj\Debug\prjAssignment.Resources.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\obj\Debug\prjAssignment.frmReport.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\obj\Debug\prjAssignment.frmTandC.resources
+C:\Users\jerem\Desktop\GUI\prjAssignmentRedo28feb0245\obj\Debug\prjAssignment.vbproj.GenerateResource.Cache

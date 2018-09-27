@@ -1,0 +1,2 @@
+To Return a City Bike
+Push the City Bike back into an available stand. An audio beep is emitted and the lights on the bike stand flash momentarily before a continuous green light is displayed. This confirms that the bike has been replaced correctly and the hire has been terminated. If there is a problem, either try to reposition the bike or try another stand.

@@ -1,0 +1,21 @@
+4, 1050, its kinda broke like
+garage, 1170, Rusty bike
+8, 1111, front tyre flat
+garage, 1030, bike broken
+2, 1016, broken light
+garage, 1136, No brakes
+6, 1079, Flat tyre
+6, 1076, Rusty
+garage, 1066, Bald tyres
+garage, 1142, Crooked handlbars
+1, 1007, Flat tyre
+8, 1121, Wobbly
+garage, 1019, too small
+garage, 1047, no spokes
+6, 1081, Flat tyre
+11, 1153, No lights
+11, 1158, Buckled wheel
+4, 1054, no fender
+5, 1106, flat tyre
+1, 1001, flat tyre
+2, 1017, no wheels

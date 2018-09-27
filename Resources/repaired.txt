@@ -1,0 +1,3 @@
+Bike No. 1062, Fault: no wheels, Work carried out:Replaced wheels, Date And Time: ,20/02/2017 18:18:05, True
+Bike No. 1042, Fault: no basket, Work carried out:Replaced basket, Date And Time: ,20/02/2017 19:07:07, True
+Bike No. 1141, Fault: no saddle, Work carried out: Added saddle, Date And Time: ,21/02/2017 16:25:17, False
